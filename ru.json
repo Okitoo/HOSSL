@@ -43,10 +43,10 @@
     "You do not have permission to kick members!": "У вас нет прав изгонять игроков!",
     "You have been blocked from communications!": "Вы были заблокированы в чате!",
     "\n\nLogin everyday to get free HC, %ss, IP Changers, Log deleters and more!": "Заходите в игру каждый день, чтобы получать бесплатные ХК, %ss, смену IP, очистку логов и другое!",
-    "No such username!": "Такого имени нет!",
+    "No such username!": "Пользователь не найден!",
     "Registration / Login Error": "Ошибка Регистрации / Входа",
     "Registration error": "Ошибка регистрации",
-    "User name must have _, letters and numbers only.": "Имя может содержать только \"_\", буквы и цифры.",
+    "User name must have _, letters and numbers only.": "Имя может содержать только \"_\", буквы \"a-z\" и цифры.",
     "Wrong captcha code!": "Капча введена не верно!",
     "Wrong username or password!": "Неправильны имя или пароль!",
     "You got 25%s package and 100,000 hc package! for logging 15 days in a row!": "You got 25%s package and 100,000 hc package! for logging 15 days in a row!",
@@ -59,7 +59,7 @@
     "No Package today!\nYou currently logged in for %d days in a row\n%d days left and you will get 10%s each day!": "No Package today!\nYou currently logged in for %d days in a row\n%d days left and you will get 10%s each day!",
     "No Package today!\nYou currently logged in for %d days in a row\n%d days left for the 20 day package!": "No Package today!\nYou currently logged in for %d days in a row\n%d days left for the 20 day package!",
     "No Package today!\nYou currently logged in for %d days in a row\n%d days left for the 25 day package!": "No Package today!\nYou currently logged in for %d days in a row\n%d days left for the 25 day package!",
-    "User name must be 20 chars max, 4 chars min!": "User name must be 20 chars max, 4 chars min!",
+    "User name must be 20 chars max, 4 chars min!": "Имя пользователя может содержать от 4 до 20 символов!",
     "User name must be 4 char at least Only letters and numbers and _\nPassword must be 5 chars minimum.": "User name must be 4 char at least Only letters and numbers and _\nPassword must be 5 chars minimum.",
     "Username already used!": "Username already used!",
     "Username must not have 2 or more consecutive capital letters!": "Username must not have 2 or more consecutive capital letters!",
@@ -68,5 +68,7 @@
     "You got 1000HC for logging in for 3 days in a row!": "You got 1000HC for logging in for 3 days in a row!",
     "You got 20,000 hc package for logging in for 6 days in a row!": "You got 20,000 hc package for logging in for 6 days in a row!",
     "You got 5 %s package and 50,000 hc package! for logging 9 days in a row!": "You got 5 %s package and 50,000 hc package! for logging 9 days in a row!",
-    "You got 5,000 hc package for logging in for 4 days in a row!": "You got 5,000 hc package for logging in for 4 days in a row!"
+    "You got 5,000 hc package for logging in for 4 days in a row!": "You got 5,000 hc package for logging in for 4 days in a row!",
+    "You got 25%s package and 150,000 hc package! for logging 20 days in a row!": "You got 25%s package and 150,000 hc package! for logging 20 days in a row!",
+    "You got 25%s package and 100,000 hc package! for logging 12 days in a row!": "You got 25%s package and 100,000 hc package! for logging 12 days in a row!"
 }
