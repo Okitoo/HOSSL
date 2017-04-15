@@ -214,5 +214,10 @@
     "Usernames that does not match our rules are permanantely banned!": "Benutzernamen die nicht mit Unseren Regeln übereinstimmen werden Permanent Gebannt!",
     "Using automation will result in deleting your account.": "Nutzung von Automatisierung Resultiert in Löschung des Accounts.",
     "Writing improper words (in any language) will get your account deleted.": "Beim schreiben falscher Wörter (in irgendeiner Sprache) wird dein Account gelöscht.",
-    "You already own a guild, or part of a guild!": "Du besitzt bereits eine Gilde, oder bist ein Teil einer Gilde!"
+    "You already own a guild, or part of a guild!": "Du besitzt bereits eine Gilde, oder bist ein Teil einer Gilde!",
+    "File does not exist!": "File does not exist!",
+    "File not found!": "File not found!",
+    "Invalid Gateway! ": "Invalid Gateway! ",
+    "Not connected to target!": "Not connected to target!",
+    "Server is restarting. Please try again after the restart.": "Server is restarting. Please try again after the restart."
 }
