@@ -76,5 +76,12 @@
     "You got 5 %s package and 30,000 hc package! for logging 8 days in a row!": "You got 5 %s package and 30,000 hc package! for logging 8 days in a row!",
     "Random package!\nLOGIN FOR 2 DAYS IN A ROW to get : 50%s package and 100,000 hc package.": "Random package!\nLOGIN FOR 2 DAYS IN A ROW to get : 50%s package and 100,000 hc package.",
     "2 Random packages!\nLOGIN TOMORROW to get : 50%s package and 100,000 hc package.": "2 Random packages!\nLOGIN TOMORROW to get : 50%s package and 100,000 hc package.",
-    "You got 50%s package and 200,000 hc package! for logging 25 days in a row!": "You got 50%s package and 200,000 hc package! for logging 25 days in a row!"
+    "You got 50%s package and 200,000 hc package! for logging 25 days in a row!": "You got 50%s package and 200,000 hc package! for logging 25 days in a row!",
+    "Please use less numbers in your name!": "Please use less numbers in your name!",
+    "4 random packages\nLOGIN TOMORROW to get : %s reward.": "4 random packages\nLOGIN TOMORROW to get : %s reward.",
+    "Already processed ONCOLLECT for this gateway": "Already processed ONCOLLECT for this gateway",
+    "Collected %dHC\n": "Collected %dHC\n",
+    "Collected %dHC. Max:%dHC": "Collected %dHC. Max:%dHC",
+    "No gateway containing this file": "No gateway containing this file",
+    "Worm collected %dHC": "Worm collected %dHC"
 }
