@@ -214,5 +214,10 @@
     "Usernames that does not match our rules are permanantely banned!": "Имена пользователей, не соответствующие нашим правилам, будут заблокированы навсегда!",
     "Using automation will result in deleting your account.": "Использование автоматизации приведет к удалению вашего аккаунта.",
     "Writing improper words (in any language) will get your account deleted.": "Написание недопустимых слов (на любом языке) может привести к удалению аккаунта.",
-    "You already own a guild, or part of a guild!": "Вы уже владелец гильдии, или являетесь её членом."
+    "You already own a guild, or part of a guild!": "Вы уже владелец гильдии, или являетесь её членом.",
+    "File does not exist!": "File does not exist!",
+    "File not found!": "File not found!",
+    "Invalid Gateway! ": "Invalid Gateway! ",
+    "Not connected to target!": "Not connected to target!",
+    "Server is restarting. Please try again after the restart.": "Server is restarting. Please try again after the restart."
 }
