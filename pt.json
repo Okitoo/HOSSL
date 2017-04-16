@@ -222,5 +222,6 @@
     "Server is restarting. Please try again after the restart.": "O servidor está reiniciando. Por favor, tente novamente após o reinício.",
     "Not allowed to PM developer": "Não permitido mandar MP ao desenvolvedor",
     "TOR and/or VPN users are not allowed to chat": "Utilizadores TOR e/ou VPN não têm permissão para falar",
-    "You can't use non-hackers as bounce node!": "Não podes usar não-hackers como bounce node!"
+    "You can't use non-hackers as bounce node!": "Não podes usar não-hackers como bounce node!",
+    "Not allowed to email the developer. Use the forums http://forum.hackerz.online for questions and issues!": "Não é permitido enviar email ao desenvolvedor. Usa o fórum http://forum.hackerz.online para dúvidas e problemas!"
 }
