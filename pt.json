@@ -215,9 +215,9 @@
     "Using automation will result in deleting your account.": "O uso da automação resultará na exclusão de sua conta.",
     "Writing improper words (in any language) will get your account deleted.": "Escrever palavras impróprias (em qualquer idioma) terá sua conta excluída.",
     "You already own a guild, or part of a guild!": "Você já possui uma guilda, ou parte de uma guilda!",
-    "File does not exist!": "File does not exist!",
-    "File not found!": "File not found!",
-    "Invalid Gateway! ": "Invalid Gateway! ",
-    "Not connected to target!": "Not connected to target!",
-    "Server is restarting. Please try again after the restart.": "Server is restarting. Please try again after the restart."
+    "File does not exist!": "Arquivo não existente!",
+    "File not found!": "Arquivo não encontrado!",
+    "Invalid Gateway! ": "Gateway inválido!␣",
+    "Not connected to target!": "Não conectado ao alvo!",
+    "Server is restarting. Please try again after the restart.": "O servidor está reiniciando. Por favor, tente novamente após o reinício."
 }
