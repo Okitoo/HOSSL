@@ -219,5 +219,8 @@
     "File not found!": "¡Archivo no encontrado!",
     "Invalid Gateway! ": "¡Puerta de enlace invalida! ",
     "Not connected to target!": "¡No se ha conectado al objetivo!",
-    "Server is restarting. Please try again after the restart.": "El servidor se esta reiniciando. por favor inténtalo despues del reinicio."
+    "Server is restarting. Please try again after the restart.": "El servidor se esta reiniciando. por favor inténtalo despues del reinicio.",
+    "Not allowed to PM developer": "No estas autorizado para enviar PM a los desarrolladores",
+    "TOR and/or VPN users are not allowed to chat": "TOR and/or VPN users are not allowed to chat",
+    "You can't use non-hackers as bounce node!": "You can't use non-hackers as bounce node!"
 }
