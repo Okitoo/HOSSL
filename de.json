@@ -54,7 +54,7 @@
     "You got 500HC for logging in for 2 days in a row!": "Du hast 500HC erhalten, da du dich 2 Tage in Folge einloggt hast!",
     "You got your daily 1500hc!": "Du hast deine täglichen 1500HC erhalten!",
     "You have exceeded your daily test quota of sending emails!": "Du hast die tägliche Grenze fürs E-Mails senden erreicht!",
-    "You have logged in for %d days in a row!": "Du hast dich jetzt für %d in Folge eingeloggt!",
+    "You have logged in for %d days in a row!": "Du hast dich jetzt für %d Tage in Folge eingeloggt!",
     "Every day you login in a row give better rewards\nPlay everyday to get free HC, Dash, IP changers, global log deleters and more!": "Jeder Tag, den du in Folge einloggst, gibt dir bessere Belohnungen. Spiel jeden Tag, um gratis HackCoins, IP Wechsler, Log Löscher und mehr zu erhalten!",
     "No Package today!\nYou currently logged in for %d days in a row\n%d days left and you will get 10%s each day!": "Heute kein Paket!\nDu hast dich bereits %d Tage in Folge eingeloggt.\n%d noch bis zum 10 Tage Paket!",
     "No Package today!\nYou currently logged in for %d days in a row\n%d days left for the 20 day package!": "Heute kein Paket!\nDu hast dich bereits %d Tage in Folge eingeloggt.\n%d noch bis zum 20 Tage Paket!",
@@ -141,7 +141,7 @@
     "No file set for transfer, Please select a file and upload again!": "Keine Datei ausgewählt, Bitte wähle eine Datei aus und versuche es erneut!",
     "No file to transfer!": "Keine Datei übertragung!",
     "Not enough RAM. Please upgrade your RAM or cancel other tasks.": "Nicht genug RAM. Bitte upgrade deinen RAM oder breche andere Aufgaben ab.",
-    "Not enough cash! \nNeeded %d HC more\n\n You can get more cash by:\n- Collecting HC from your Miner\n- Finishing missions\n- Hacking others": "Nicht genug HC!\nDu brauchts %d HC mehr\n\nGeld erhälst du durch:\n- deinen Miner\n- das Abschließen von Missionen\n- das Hacken anderer",
+    "Not enough cash! \nNeeded %d HC more\n\n You can get more cash by:\n- Collecting HC from your Miner\n- Finishing missions\n- Hacking others": "Nicht genug HC!\nDu brauchst %d HC mehr\n\nGeld erhältst du durch:\n- deinen Miner\n- das Abschließen von Missionen\n- das Hacken anderer",
     "Not enough cash! \nNeeded %d HC more\n\n You can get more cash by:\n- Collecting HackCoins from your Miner\n- Finishing missions\n- Hacking others": "Nicht genug HC!\nDu brauchts %d HC mehr\n\nGeld erhälst du durch:\n- deinen Miner\n- das Abschließen von Missionen\n- das Hacken anderer",
     "Owner :%s": "Eigentümer: %s",
     "Packages saved in %s": "Pakete wurden in %s gespeichert",
@@ -219,5 +219,8 @@
     "File not found!": "File not found!",
     "Invalid Gateway! ": "Invalid Gateway! ",
     "Not connected to target!": "Not connected to target!",
-    "Server is restarting. Please try again after the restart.": "Server is restarting. Please try again after the restart."
+    "Server is restarting. Please try again after the restart.": "Server is restarting. Please try again after the restart.",
+    "Not allowed to PM developer": "Not allowed to PM developer",
+    "TOR and/or VPN users are not allowed to chat": "TOR and/or VPN users are not allowed to chat",
+    "You can't use non-hackers as bounce node!": "You can't use non-hackers as bounce node!"
 }
