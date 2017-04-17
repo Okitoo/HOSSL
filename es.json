@@ -225,5 +225,9 @@
     "You can't use non-hackers as bounce node!": "¡Solo puedes usar a hackers como nodos de rebote!",
     "Not allowed to email the developer. Use the forums http://forum.hackerz.online for questions and issues!": "No está permitido enviar emails al desarrollador. Usa el foro http://forum.hackerz.online para preguntas e incidencias",
     "%s is not being upgraded!": "%s no está siendo mejorado!",
-    "Can not cancel upgrade": "No se puede cancelar la mejora"
+    "Can not cancel upgrade": "No se puede cancelar la mejora",
+    "Attachment not found on senders gateway! Access denied or file has been moved or removed!": "Archivo adjunto no encontrado en la puerta de enlace del remitente! Acceso denegado o el archivo ha sido eliminado",
+    "Gateway installed! Booting up!": "¡Puerta de enlace instalada!  Reiniciando!",
+    "Guild prefix must consist of letters a-z or A-Z and numbers only": "El prefijo de la organización debe tener sólo números y letras de la a-z o A-Z",
+    "Unpacking new gateway hardware...": "Descomprimiendo el nuevo hardware de la puerta de enlace"
 }
