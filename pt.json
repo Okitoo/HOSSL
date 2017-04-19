@@ -238,5 +238,7 @@
     "Failed updating password. Please try again after an hour!": "Falha ao atualizar a password. Tenta novamente daqui a uma hora!",
     "Invalid user": "Utilizador inválido",
     "You have been permanently banned from chat in public": "Foste permanentemente banido do chat em público",
-    "Username %s Already exist!": "Username %s já existe!"
+    "Username %s Already exist!": "Username %s já existe!",
+    "ERROR!\nCan't change IP because password cracker has been used recently!\nYou can change the IP only if you do not use the password cracker for %2.1f days!\nTime left:%s": "ERRO!\nNão é possível mudar de IP porque o password cracker foi usado recentemente!\nPodes alterar o IP apenas se não usares o password cracker por %2.1f dias!\nTempo restante: %s",
+    "Guild :%s [%s]": "Guild: %s [%s]"
 }
