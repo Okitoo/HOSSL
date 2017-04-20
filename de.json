@@ -192,7 +192,6 @@
     "File corrupted!": "Datei beschädigt!",
     "File open error": "Fehler beim öffnen der Datei",
     "Gateway has no empty slots! %d ": "Gateway hat keine freien Slots! %d_",
-    "No connection to target!": "Nicht verbunden zum Ziel!",
     "Not enough Reputation!\nYou must have at least %d reputation to create a guild!": "Nicht genug Reputation!\nZur Gründung einer Gilde brauchst du mindestens %dRep!",
     "Please check your email for password reset instructions!": "Bitte überprüfe deine email für weitere Informationen. ",
     "Hello <b>%s</b><Br>You have requested a new password,This is your new password<br><br><b>%s</b><br><br>Please copy it and paste it in the login screen.<br>Thank you!": "Hallo <b>%s</b><Br> u hast ein neues Passwort angefordert, dies ist dein neues Passwort: <br><br><b>%s</b><br><br>Bitte Kopiere es und füge es im Login Screen ein.<br>Vielen Dank!",
@@ -213,7 +212,6 @@
     "Not passing the bot check will result in your account blocked!": "Wird BotCheck nicht bestanden wird dein Account geblockt!",
     "Usernames that does not match our rules are permanantely banned!": "Benutzernamen die nicht mit unseren Regeln übereinstimmen werden permanent gebannt!",
     "Using automation will result in deleting your account.": "Nutzung von Automatisierung resultiert in Löschung des Accounts.",
-    "Writing improper words (in any language) will get your account deleted.": "Beim schreiben falscher Wörter (in irgendeiner Sprache) wird dein Account gelöscht.",
     "You already own a guild, or part of a guild!": "Du besitzt bereits eine Gilde, oder bist ein Teil einer Gilde!",
     "File does not exist!": "Diese Datei existiert nicht!",
     "File not found!": "Datei nicht gefunden!",
@@ -240,5 +238,6 @@
     "You have been permanently banned from chat in public": "Du wurdest permanent vom öffentlichen Chat gebannt",
     "Username %s Already exist!": "Der Nutzername %s existiert bereits!",
     "ERROR!\nCan't change IP because password cracker has been used recently!\nYou can change the IP only if you do not use the password cracker for %2.1f days!\nTime left:%s": "Fehler!\nDie IP kann nicht geändert werden, da der Passwort Cracker kürzlich benutzt wurde!\nDu kannst deine IP nur ändern, wenn du den Passwort Cracker für %2.1f Tage nicht benutzt hast!\nVerbliebene Zeit: %s",
-    "Guild :%s [%s]": "Gilde :%s [%s]"
+    "Guild :%s [%s]": "Gilde :%s [%s]",
+    "The user is not a member in this guild": "Der Nutzer ist kein Mitglied dieser Gilde"
 }
