@@ -192,6 +192,7 @@
     "File corrupted!": "Datei beschädigt!",
     "File open error": "Fehler beim öffnen der Datei",
     "Gateway has no empty slots! %d ": "Gateway hat keine freien Slots! %d_",
+    "No connection to target!": "Keine Verbindung zum Ziel!",
     "Not enough Reputation!\nYou must have at least %d reputation to create a guild!": "Nicht genug Reputation!\nZur Gründung einer Gilde brauchst du mindestens %dRep!",
     "Please check your email for password reset instructions!": "Bitte überprüfe deine email für weitere Informationen. ",
     "Hello <b>%s</b><Br>You have requested a new password,This is your new password<br><br><b>%s</b><br><br>Please copy it and paste it in the login screen.<br>Thank you!": "Hallo <b>%s</b><Br> u hast ein neues Passwort angefordert, dies ist dein neues Passwort: <br><br><b>%s</b><br><br>Bitte Kopiere es und füge es im Login Screen ein.<br>Vielen Dank!",
@@ -212,6 +213,7 @@
     "Not passing the bot check will result in your account blocked!": "Wird BotCheck nicht bestanden wird dein Account geblockt!",
     "Usernames that does not match our rules are permanantely banned!": "Benutzernamen die nicht mit unseren Regeln übereinstimmen werden permanent gebannt!",
     "Using automation will result in deleting your account.": "Nutzung von Automatisierung resultiert in Löschung des Accounts.",
+    "Writing improper words (in any language) will get your account deleted.": "Schreiben unangebrachter Wörter (in irgendeiner Sprache) führt zur Löschung deines Accounts.",
     "You already own a guild, or part of a guild!": "Du besitzt bereits eine Gilde, oder bist ein Teil einer Gilde!",
     "File does not exist!": "Diese Datei existiert nicht!",
     "File not found!": "Datei nicht gefunden!",
@@ -239,5 +241,8 @@
     "Username %s Already exist!": "Der Nutzername %s existiert bereits!",
     "ERROR!\nCan't change IP because password cracker has been used recently!\nYou can change the IP only if you do not use the password cracker for %2.1f days!\nTime left:%s": "Fehler!\nDie IP kann nicht geändert werden, da der Passwort Cracker kürzlich benutzt wurde!\nDu kannst deine IP nur ändern, wenn du den Passwort Cracker für %2.1f Tage nicht benutzt hast!\nVerbliebene Zeit: %s",
     "Guild :%s [%s]": "Gilde :%s [%s]",
-    "The user is not a member in this guild": "Der Nutzer ist kein Mitglied dieser Gilde"
+    "\n<font color=red>*** Chat Rules : --------------------</font><br>- No Swearing or adult talks or real hacking talks<br>- No IPs / asking for IPs or passwords<br>- No Spamming/CAPS/Advertising<br>- No Random Texts/Trying commands <br>- No Fights, toxic behaviour or hate speech<br>- No talks about religion, racism, drugs or any illegal materials/activities. aupThose will grant a permanent ban from the chat<br>- GLOBAL chat is ENGLISH ONLY. if you want to speak in your language, please switch to your country room<br><a href=\"http://forum.hackerz.online/viewtopic.php?f=4&t=103\">Click here for more information about the rules</a><br><font color=green>-- Rules exist to keep the community friendly! --</font><br>": "<font color=red>*** Chat Regeln : --------------------</font><br>- Keine Beschimpfungen, Gespräche über Erwachsenen- oder Hackingthemen<br>- Keine IPs oder Passwörter<br>- Kein Spam, keine CAPS und keine Werbung<br>- Keine zufälligen Texte oder Commands<br>- Keine Kämpfe und keine Hassreden<br>- Keine Gespräche über Religion, Rassismus, Drogen oder andere illegale Aktivitäten/Materialien. Diese führen zu einem permanenten Bann!<br>-Der  globale Chat ist nur englischsprachig. Wenn du in deiner Sprache reden möchtest, wechsle in den Länder-Chat<br><a href=\"http://forum.hackerz.online/viewtopic.php?f=4&t=103\">Klick hier für mehr Infos zu den Regeln</a><br><font color=green>-- Regeln existieren, um die Community aufrechtzuerhalten --</font><br>",
+    "The user is not a member in this guild": "Der Nutzer ist kein Mitglied dieser Gilde",
+    "Guild name must not be more than 16 chars long!": "Der Gildenname darf maximal 16 Zeichen lang sein!",
+    "Guild slogan must not be more than 64 chars long!": "Das Gildenmotto darf maximal 64 Zeichen lang sein!"
 }
