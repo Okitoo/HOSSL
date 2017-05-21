@@ -301,5 +301,15 @@
     "You are not connected to the target! Please report this immediately to the moderators or your account will be blocked!\n": "Não estás conectado ao alvo! Por favor reporta isto imediatamente aos moderadores ou a tua conta será bloqueada!",
     "Error fetching message!": "Erro ao buscar mensagem!",
     "Connection packet loss": "Conexão de pacotes perdida",
-    "Failed creating connection tunnel!\n\n ": "Erro ao criar túnel de conexão!\n\n"
+    "Failed creating connection tunnel!\n\n ": "Erro ao criar túnel de conexão!\n\n",
+    "Invalid User": "Utilizador inválido",
+    "This guild is not active yet (Doesn't have a colead)!": "A guild ainda não está ativa (não tem Colíder)!",
+    "Missions target have vanished! No reputation is lost!": "O alvo das missão desapareceu! Sem reputação perdida!",
+    "Email not verified by Google!": "Email não verificado pelo Google!",
+    "File too large for buffer! 1024 chars maximum!": "Arquivo muito grande para buffer! Máximo 1024 carateres!",
+    "Linked!": "Ligado!",
+    "Login error": "Erro de Login",
+    "This G+ account is already linked!": "Esta conta G+ já está ligada!",
+    "Your account has been linked to G+": "A tua conta foi ligada ao G+",
+    "An error has occured!": "Ocorreu um erro!"
 }
