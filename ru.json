@@ -72,7 +72,7 @@
     "Available Commands: ": "Доступные команды: ",
     "Can't collect!\nMiner is incompatable! \n\n(Can't collect hackers less than 25% of your reputation!)\n": "Сбор с этого майнера уже невозможен!\nВаша репутация превышает максимально допустимую для этого игрока. (Разница более 75%)",
     "Can't use NAS/Public servers as bounce nodes!": "Нельзя использовать NAS/общедоступные серверы как узлы!",
-    "Checking stock ...": "Проверка наличия...",
+    "Checking stock ...": "Проверка баланса...",
     "File delete error": "Ошибка при удалении файла",
     "File transfered !": "Файл загружен!",
     "Incompatable Software": "Несовместимое ПО",
@@ -119,5 +119,8 @@
     "Error opening file!": "Не удалось открыть файл!",
     "Failed creating connection tunnel!\n\n Already connected!": "Ошибка подключения!\n\nСоединение уже установлено.",
     "You are not connected to the target! Please report this immediately to the moderators or your account will be blocked!\n": "Обнаружена ошибка подключения! Необходимо сообщить модераторам, в противном случае возможна блокировка аккаунта!",
-    "Error fetching message!": "Ошибка получения сообщения!"
+    "Error fetching message!": "Ошибка получения сообщения!",
+    "Connection packet loss": "Потеря пакетов при подключении",
+    "Failed creating connection tunnel!\n\n ": "Ошибка создания туннелированного соединения!\n\n␣",
+    "This guild is not active yet (Doesn't have a colead)!": "Гильдия неактивна (Нет заместителя)!"
 }
