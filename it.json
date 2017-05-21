@@ -303,5 +303,14 @@
     "Connection packet loss": "Connessione persa",
     "Failed creating connection tunnel!\n\n ": "Impossibile creare una connessione!\n\n␣",
     "Invalid User": "Utente non valido",
-    "This guild is not active yet (Doesn't have a colead)!": "Questa gilda non è ancora attiva (non possiede un co-leader)"
+    "This guild is not active yet (Doesn't have a colead)!": "Questa gilda non è ancora attiva (non possiede un co-leader)",
+    "Email not verified by Google!": "Email non verificata con Google!",
+    "File too large for buffer! 1024 chars maximum!": "File troppo grande per essere caricato! Massimo 1024 caratteri!",
+    "Linked!": "Connesso!",
+    "Login error": "Errore nel login",
+    "This G+ account is already linked!": "Questo account G+ è già connesso!",
+    "Your account has been linked to G+": "Il tuo account si è connesso a G+",
+    "An error has occured!": "Si è verificato un errore!",
+    "Cant execute now! Try again later!": "Impossibile eseguire ora! Riprova più tardi!",
+    "Cant execute!": "Impossibile eseguire!"
 }
