@@ -312,5 +312,13 @@
     "Your account has been linked to G+": "Il tuo account si è connesso a G+",
     "An error has occured!": "Si è verificato un errore!",
     "Cant execute now! Try again later!": "Impossibile eseguire ora! Riprova più tardi!",
-    "Cant execute!": "Impossibile eseguire!"
+    "Cant execute!": "Impossibile eseguire!",
+    "Virus blocked: %s": "Virus bloccato: %s",
+    "Your account has been locked! Please visit the forums at http://forum.hackerz.online to investigate!": "Il tuo account è stato bloccato! Per favore visita il forum su http://forum.hackerz.online per investigare!",
+    "Error in registration!": "Errore nella registrazione!",
+    "Worm collected %dHC from %s": "Il worm ha raccolto %dHC da %s",
+    "Unpacking new gateway upgrades...": "Cercando nuovi miglioramenti per il gateway...",
+    "Failed loading gateay!": "Errore nel caricamento del gateway!",
+    "An error happened! Please try again!": "Si è verificato un errore! Per favore riprova!",
+    "You are not in any guild": "Non sei in nessuna gilda"
 }
