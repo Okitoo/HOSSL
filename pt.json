@@ -311,5 +311,10 @@
     "Login error": "Erro de Login",
     "This G+ account is already linked!": "Esta conta G+ já está ligada!",
     "Your account has been linked to G+": "A tua conta foi ligada ao G+",
-    "An error has occured!": "Ocorreu um erro!"
+    "An error has occured!": "Ocorreu um erro!",
+    "Cant execute now! Try again later!": "Não é possível executar agora! Tenta novamente mais tarde!",
+    "Cant execute!": "Não é possível executar!",
+    "Virus blocked: %s": "Vírus bloqueado: %s",
+    "Your account has been locked! Please visit the forums at http://forum.hackerz.online to investigate!": "A tua conta foi suspensa! Por favor visita os fóruns em http://forum.hackerz.online para investigar!",
+    "Error in registration!": "Erro no registo!"
 }
