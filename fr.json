@@ -194,8 +194,8 @@
     "Gateway has no empty slots! %d ": "Gateway has no empty slots! %d ",
     "No connection to target!": "No connection to target!",
     "Not enough Reputation!\nYou must have at least %d reputation to create a guild!": "Not enough Reputation!\nYou must have at least %d reputation to create a guild!",
-    "Please check your email for password reset instructions!": "Please check your email for password reset instructions!",
-    "Hello <b>%s</b><Br>You have requested a new password,This is your new password<br><br><b>%s</b><br><br>Please copy it and paste it in the login screen.<br>Thank you!": "Hello <b>%s</b><Br>You have requested a new password,This is your new password<br><br><b>%s</b><br><br>Please copy it and paste it in the login screen.<br>Thank you!",
-    "New Password": "New Password",
-    "New password has been sent to your email": "New password has been sent to your email"
+    "Please check your email for password reset instructions!": "Veuillez verifier vos e-mails pour continuer la reinitialisation du mot de passe!",
+    "Hello <b>%s</b><Br>You have requested a new password,This is your new password<br><br><b>%s</b><br><br>Please copy it and paste it in the login screen.<br>Thank you!": "Hey <b>%s</b><Br>Vous avez demandé un nouveau mot de passe, Voici votre nouveau mot de passe<br><br><b>%s</b><br><br>Veuillez le copier/coller dans l'écran de connexion.<br>Merci!",
+    "New Password": "Nouveau mot de passe",
+    "New password has been sent to your email": "Un nouveau mot de passe vous a été envoyé par e-mail"
 }
