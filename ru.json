@@ -147,7 +147,6 @@
     "First bounce node can't be in the same country as yours!": "Первым, в вашем списке Bounce адресов, - не может быть игрок из России!",
     "Unexpected error happened, Please try again in 5 minutes.\nThe developer has been notified and this issue will be checked soon.": "Что-то пошло не так......\nОтчет об ошибке отправлен. Повторите попытку позже.",
     "Error opening file!": "Не удалось открыть файл!",
-    "Main thread already have a process running. Please wait until that process is finished.": "Занято....",
     "- None -": "- Нет -",
     "Failed creating connection tunnel!\n\n Already connected!": "Ошибка подключения!\n\nСоединение уже установлено.",
     "Or reach 25 reputation": "Или не менее 25 очков репутации",
@@ -166,5 +165,12 @@
     "An error has occured!": "Произошла ошибка!",
     "Cant execute now! Try again later!": "Выполнение невозможно! Попробуйте позже!",
     "Cant execute!": "Выполнение невозможно!",
-    "Virus blocked: %s": "Вирус заблокирован: %s"
+    "Virus blocked: %s": "Вирус заблокирован: %s",
+    "Your account has been locked! Please visit the forums at http://forum.hackerz.online to investigate!": "Ваш аккаунт заблокирован! Посетите http://forum.hackerz.online/ чтобы разобраться!",
+    "Error in registration!": "Ошибка при регистрации!",
+    "Worm collected %dHC from %s": "Червь получил %dHC от %s",
+    "Unpacking new gateway upgrades...": "Распаковка нового оборудования ...",
+    "An error happened! Please try again!": "Произошла ошибка! Повторите попытку!",
+    "Invalid IP Address!": "Неверный IP адрес!",
+    "A guild with this name already exist!": "Это имя гильдии уже занято!"
 }
