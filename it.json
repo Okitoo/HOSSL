@@ -304,6 +304,7 @@
     "Failed creating connection tunnel!\n\n ": "Impossibile creare una connessione!\n\n␣",
     "Invalid User": "Utente non valido",
     "This guild is not active yet (Doesn't have a colead)!": "Questa gilda non è ancora attiva (non possiede un co-leader)",
+    "Missions target have vanished! No reputation is lost!": "Il bersaglio della missione è scomparso! Non hai perso reputazione!",
     "Email not verified by Google!": "Email non verificata con Google!",
     "File too large for buffer! 1024 chars maximum!": "File troppo grande per essere caricato! Massimo 1024 caratteri!",
     "Linked!": "Connesso!",
@@ -320,5 +321,13 @@
     "Unpacking new gateway upgrades...": "Cercando nuovi miglioramenti per il gateway...",
     "Failed loading gateay!": "Errore nel caricamento del gateway!",
     "An error happened! Please try again!": "Si è verificato un errore! Per favore riprova!",
-    "You are not in any guild": "Non sei in nessuna gilda"
+    "You are not in any guild": "Non sei in nessuna gilda",
+    "Invalid IP Address!": "Indirizzo IP non valido!",
+    "A guild with this name already exist!": "Esiste già una gilda con questo nome!",
+    "Usernames meant to describe who you are. Be more civilized! We do not allow profanity here.": "Gli username servono a descrivere chi sei. Sii più civile! Non sono permesse profanità qui.",
+    "Failed converting DASH, Not enough DASH!": "Impossibile convertire DASH, DASH insufficiente!",
+    "Failed!": "Errore!",
+    "Couldn't rent supercomputer for upgrade!!": "Non è possibile noleggiare supercomputer per migliorare!",
+    "DASH Convert success!\n .\nYou now have %d%s ": "Adesso hai %d%s ",
+    "Username changed to %s": "Username cambiato in %s"
 }
