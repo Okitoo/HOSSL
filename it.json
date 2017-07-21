@@ -326,10 +326,11 @@
     "A guild with this name already exist!": "Esiste già una gilda con questo nome!",
     "Usernames meant to describe who you are. Be more civilized! We do not allow profanity here.": "Gli username servono a descrivere chi sei. Sii più civile! Non sono permesse profanità qui.",
     "Failed converting DASH, Not enough DASH!": "Impossibile convertire DASH, DASH insufficiente!",
-    "Failed!": "Errore!",
+    "Failed!": "Fallito!",
     "Couldn't rent supercomputer for upgrade!!": "Non è possibile noleggiare supercomputer per migliorare!",
     "DASH Convert success!\n .\nYou now have %d%s ": "Adesso hai %d%s ",
     "Username changed to %s": "Username cambiato in %s",
     "Invalid Gateway!": "Gateway non valido!",
-    "Due to users registering fake accounts to spam the chat, All users are required to have %d reputation points at least to chat. ***</i></font><br><br>New players (less than 200 rep) block penalty:24 hours<br>Old players block penalty: 1 hour<br>Repeat offenders: Permanent ban from chat and mail<br><br>Please take a moment to read the rules. type /rules<br>": "A causa di utenti registrati con account falsi per spammare nella chat, tutti gli utenti devono avere almeno %d punti reputazione per chattare. ***</i></font><br><br>Punizione per i giocatori nuovi (meno di 200 rep):24 ore<br>Punizione per i vecchi giocatori: 1 ora<br>Per chi persevera: Bannati permanentemente dalla chat e dalle mail <br><br>Per favore calmati e leggi le regole. Digita /rules<br>"
+    "Due to users registering fake accounts to spam the chat, All users are required to have %d reputation points at least to chat. ***</i></font><br><br>New players (less than 200 rep) block penalty:24 hours<br>Old players block penalty: 1 hour<br>Repeat offenders: Permanent ban from chat and mail<br><br>Please take a moment to read the rules. type /rules<br>": "A causa di utenti registrati con account falsi per spammare nella chat, tutti gli utenti devono avere almeno %d punti reputazione per chattare. ***</i></font><br><br>Punizione per i giocatori nuovi (meno di 200 rep):24 ore<br>Punizione per i vecchi giocatori: 1 ora<br>Per chi persevera: Bannati permanentemente dalla chat e dalle mail <br><br>Per favore calmati e leggi le regole. Digita /rules<br>",
+    "## DAILY TARGET ## \nGateways Hacked: %d/100\nMiners Hacked: %d/200\n## ########### ##\nUpgrade algorithm on each target finished!\n\n": "## OBIETTIVO GIORNALIERO ## \nGateway Hackerati: %d/100\nMiners Hackerati: %d/200\n## ########### ##\nMigliora l'algoritmo con ogni obiettivo terminato!\n\n"
 }
