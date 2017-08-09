@@ -332,5 +332,6 @@
     "Username changed to %s": "Nome de usuário alterado para %s",
     "Invalid Gateway!": "Gateway inválido!",
     "Due to users registering fake accounts to spam the chat, All users are required to have %d reputation points at least to chat. ***</i></font><br><br>New players (less than 200 rep) block penalty:24 hours<br>Old players block penalty: 1 hour<br>Repeat offenders: Permanent ban from chat and mail<br><br>Please take a moment to read the rules. type /rules<br>": "Devido aos usuários que registraram contas falsas para fazer spam. Todos os usuários devem ter %d pontos de reputação pelo menos para usar o chat. ***</i></ font><br><br> Pena de bloqueio para novos jogadores (menos de 200 rep): 24 horas<br>Pena de bloqueio para jogadores antigos: 1 hora<br>Reincidentes: proibição permanente do bate-papo e mail<br><br>Por favor, tome um momento para ler as regras. Escreva /rules<br>",
-    "## DAILY TARGET ## \nGateways Hacked: %d/100\nMiners Hacked: %d/200\n## ########### ##\nUpgrade algorithm on each target finished!\n\n": "## META DIÁRIA ##\nGateways Hackeados: %d/100\nMiners Hackeados: %d/200\n## ########### ##\nAlgoritmo de upgrade em cada meta finalizada!\n\n"
+    "## DAILY TARGET ## \nGateways Hacked: %d/100\nMiners Hacked: %d/200\n## ########### ##\nUpgrade algorithm on each target finished!\n\n": "## META DIÁRIA ##\nGateways Hackeados: %d/100\nMiners Hackeados: %d/200\n## ########### ##\nAlgoritmo de upgrade em cada meta finalizada!\n\n",
+    "Can't infect self with WannaCry worm!": "Você não pode se auto-infectar com worm WannaCry!"
 }
