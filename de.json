@@ -329,7 +329,7 @@
     "Failed!": "Fehlgeschlagen!",
     "Couldn't rent supercomputer for upgrade!!": "Ein Supercomputer konnte nicht geliehen werden!",
     "DASH Convert success!\n .\nYou now have %d%s ": "Dash-Umwandlung erfolgreich!\n\nDu hast jetzt %d%s ",
-    "Username changed to %s": "Nutername zu %s geändert",
+    "Username changed to %s": "Nutzername zu %s geändert",
     "Invalid Gateway!": "Ungültiges Gateway!",
     "Due to users registering fake accounts to spam the chat, All users are required to have %d reputation points at least to chat. ***</i></font><br><br>New players (less than 200 rep) block penalty:24 hours<br>Old players block penalty: 1 hour<br>Repeat offenders: Permanent ban from chat and mail<br><br>Please take a moment to read the rules. type /rules<br>": "Da manche Nutzer Fake-Accounts erstellen, um im Chat zu spamen, Müssen nun alle Nutzer mindestens %d Reputation haben, um chaten zu können. ***</i></font><br><br>Neue Spieler (weniger als 200Rep) werden vom System bei Vergehen für 24h geblockt, ältere Spieler mit mehr Rep für 1h. <br> Wiederholungstäter werden dauerhaft blockiert <br><br> Bitte nehme dir einen Moment Zeit, um die Regeln zu lesen. Schreibe dazu /rules",
     "## DAILY TARGET ## \nGateways Hacked: %d/100\nMiners Hacked: %d/200\n## ########### ##\nUpgrade algorithm on each target finished!\n\n": "#TAGESZIELE#\n\nGehackte Gateways: %d/100\nGehackte Miners: %d/200\n## ########### ##\nUpgrade-Algorithmus für jedes erfüllte Ziel!\n\n",
