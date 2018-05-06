@@ -1,0 +1,674 @@
+{
+    "Error!": "Erro!\n",
+
+
+    "Mission success! Reward received!": "Missão completa, recompensa recebida!",
+
+
+    "Please verify your email!\nGoto desktop/system/settings and verify your email!": "Por favor, verifique seu e-mail! \nPara verificar, vá para desktop/system/settings.app!",
+
+
+    "You need to have 200 rep minimum to send emails!": "Você precisa ter no mínimo 200 de reputação para enviar e-mails!",
+
+
+    "Invalid hacker name!": "Nome do hacker inválido!",
+
+
+    "Row saved!": "Linha guardada!",
+
+
+    "You can't email yourself!": "Você não pode enviar um e-mail para si mesmo",
+
+
+    "You have reached your spending limit for past 7 days. Please try again tomorrow.": "Você atingiu o limite de gastos em uma semana. Por favor, tente novamente mais tarde.",
+
+
+    "Guild Search Error": "Erro ao procurar a Guild",
+
+
+    "Guild not found": "Guild não encontrada",
+
+
+    "Please enter a valid Guild Prefix (Ex: ABC)": "Por favor digite a tag válida de uma guild.(Ex: ABC)",
+
+
+    "Email sent! You can send %d emails more! V.I.P players have double the amounts of emails daily.": "E-mail enviado! Você pode enviar mais %d e-mails! Jogadores V.I.P têm o dobro de e-mails diariamente.",
+
+
+    "Access denied!": "Acesso negado!",
+
+
+    "Attachment downloaded to [FILE_MANAGER]/home/Downloads": "Arquivo transferido para [FILE_MANAGER]/home/Downloads",
+
+
+    "Bot %s Created!": "Bot %s criado!",
+
+
+    "Can't kick members when the datacenter is under attack as this will destroy the datacenter faster!": "Não é possível expulsar membros quando o datacenter está sob ataque, pois isso destruirá o datacenter mais rápido!",
+
+
+    "Can't uninstall default hardware!": "Não é possível desinstalar um hardware padrão.",
+
+
+    "Column can't be deleted!. System is delete-safe!": "Coluna não pode ser apagada! O sistema é protegido contra exclusão!",
+
+
+    "Create Guild": "Criar Guild",
+
+
+    "Database error!": "Erro na base de dados!",
+
+
+    "Datacenter is abandoned!": "O datacenter está abandonado!",
+
+
+    "ERROR!\nCan't install gateway because password cracker has been used recently!\nYou can install the new gateway only if you do not use the password cracker for 24 hours!\n": "ERRO!\nNão é possível instalar o gateway porque o password cracker foi usado recentemente!\nPara instalar o novo gateway, é preciso passar 24 horas sem usar o password cracker!\n",
+
+
+    "Email from %s": "E-mail de %s",
+
+
+    "Failed sending email! Please try again!": "Erro ao enviar e-mail! Por favor, tente novamente!",
+
+
+    "Guild Management": "Gestão da Guild",
+
+
+    "Guild Management Error": "Erro na gestão da Guild",
+
+
+    "Guild prefix must be exactly 3 chars long!": "A tag da guild deve ser de exatamente 3 letras!",
+
+
+    "Invalid attachment! Please copy the full file path!": 
+"Arquivo inválido! Por favor, copie o caminho completo do arquivo!",
+
+    "Leaders can't be kicked!": "Líderes não podem ser expulsos!",
+
+
+    "Member Kicked": "Membro expulso",
+
+
+    "Message deleted!": "Mensagem eliminada!",
+
+
+    "Message too short! please enter a message!": "Mensagem muito curta! Por favor escreva uma mensagem!",
+ 
+
+   "Not enough BlackBit!": "BlackBit insuficiente!",
+  
+
+  "Not enough Reputation!\nYou must have at least 500 reputation to create a guild!": "Reputação insuficiente!\nVocê deve ter pelo menos 500 reputação para criar uma guild!",
+  
+
+  "Subject too long! Max is 32 chars.": "Assunto muito comprido! O máximo é 32 letras.",
+
+
+    "Subject too short!": "Assunto muito curto!",
+    
+
+"Time left:": "Tempo restante:",
+
+
+    "Too many copies of same file!": "Muitas cópias do mesmo arquivo!",
+
+
+    "Uninstall failed!": "A desinstalação falhou!",
+
+
+    "Username changed to %s!":"Username trocado para %s!",
+ 
+
+   "You are not a member in any guild! Please join a guild first!": "Você não é membro de nenhuma guild! Entre em uma guilda primeiro!",
+ 
+
+   "You do not have permission to kick members!": "Você não tem permissão para expulsar membros!",
+ 
+
+   "You have been blocked from communications!": Você foi proibido de se comunicar.",
+
+
+    "\n\nLogin everyday to get free HC, %ss, IP Changers, Log deleters and more!": "\n\nEntre todos os dias para obter gratuitamente HC, %ss, Troca de IP, Logs delete e muito mais!",
+
+
+    "No such username!": "Esse username não existe!",
+
+
+    "Registration / Login Error": "Erro de registo/login",
+
+
+    "Registration error": "Erro de registo",
+
+
+    "User name must have _, letters and numbers only.": "Nome de usuário deve conter apenas _, letras e números.",
+
+
+    "Wrong captcha code!": "Código captcha incorreto!",
+ 
+
+    "Wrong username or password!": "Nome de usuário ou senha inválida!",
+
+
+    "You got 25%s package and 100,000 hc package! for logging 15 days in a row!": "Você recebeu um pacote de 25%s e um pacote de 100,000 hc! por entrar por 15 dias seguidos!",
+
+
+    "You got 30,000 hc package for logging in for 7 days in a row!": "Você recebeu um pacote de 30,000 hc por entrar por 7 dias seguidos!",
+
+
+    "You got 500HC for logging in for 2 days in a row!": "Você recebeu 500HC por entrar por 2 dias seguidos!",
+ 
+
+    "You got your daily 1500hc!": "Você recebeu os seus 1500hc diários!",
+
+
+    "You have exceeded your daily test quota of sending emails!": "Você excedeu a quota de teste diário de envio de emails!",
+
+
+    "You have logged in for %d days in a row!": "Você entrou por %d dias seguidos!",
+
+
+    "Every day you login in a row give better rewards\nPlay everyday to get free HC, Dash, IP changers, global log deleters and more!": "Por cada dia seguido que entrar receberá melhores recompensas\nJogue todos os dias para receber gratuitamente HC, Dash, Troca de iP, Log deleter e muito mais!",
+ 
+
+    "No Package today!\nYou currently logged in for %d days in a row\n%d days left and you will get 10%s each day!": 
+"Sem pacote por hoje!\nVocê já entrou por %d dias seguidos\nEm %d dias você irá receber 10%s a cada dia!",
+
+
+    "No Package today!\nYou currently logged in for %d days in a row\n%d days left for the 20 day package!": "Sem pacote hoje!\nVocê já entrou por %d dias seguidos\n%d dias restantes para o pacote do dia 20!",
+ 
+
+    "No Package today!\nYou currently logged in for %d days in a row\n%d days left for the 25 day package!": "Sem pacote hoje!\nVocê já entrou por %d dias seguidos\n%d dias restantes para o pacote do dia 25!",
+  
+
+   "User name must be 20 chars max, 4 chars min!": "Nome de usuário deve ter 20 letras no máximo e 4 letras no mínimo.",
+
+
+    "User name must be 4 char at least Only letters and numbers and _\nPassword must be 5 chars minimum.": "Nome de usuário deve conter ao menos 4 letras. Apenas letras e números e _\nA senha deve ter 5 caracteres no mínimo.",
+ 
+
+    "Username already used!": "Nome de usuário já está em uso!",
+
+
+    "Username must not have 2 or more consecutive capital letters!": "Nome de usuário não deve ter mais de 2 letras maiúsculas consecutivas",
+
+
+    "You got %d hc package!": "Você recebeu um pacote de %d hc!",
+ 
+
+    "You got 10,000 hc package for logging in for 5 days in a row!": "Você recebeu um pacote de 10,000 hc por entrar por 5 dias seguidos!",
+
+
+    "You got 1000HC for logging in for 3 days in a row!": "Você recebeu 1000HC por entrar por 3 dias seguidos!",
+ 
+
+    "You got 20,000 hc package for logging in for 6 days in a row!": "Você recebeu um pacote de 20,000 hc por entrar por 6 dias seguidos!",
+
+
+    "You got 5 %s package and 50,000 hc package! for logging 9 days in a row!": "\"Você recebeu pacote de 5 %s e um pacote de 50,000 hc por entrar por 9 dias seguidos!",
+
+
+    "You got 5,000 hc package for logging in for 4 days in a row!": "Você recebeu um pacote de 5,000 hc por entrar por 4 dias seguidos!",
+
+
+    "You got 25%s package and 150,000 hc package! for logging 20 days in a row!": "Você recebeu um pacote de 25 %s e um pacote de 150,000 hc por entrar por 20 dias seguidos!",
+
+
+    "You got 25%s package and 100,000 hc package! for logging 12 days in a row!": "Você recebeu um pacote de 25 %s e um pacote de 100,000 hc por entrar por 12 dias seguidos!",
+    "3 random packages\nLOGIN FOR 2 DAYS IN A ROW to get : %s reward.": "3 pacotes aleatórios\nENTRE POR 2 DIAS SEGUIDOS para receber : %s recompensa.",
+
+
+    "Please use a normal username!": "Por favor utilize um nome de usuário normal!",
+
+
+    "You got 5 %s package and 30,000 hc package! for logging 8 days in a row!": "Você recebeu um pacote de 5 %s e um pacote de 30,000 hc por entrar por 8 dias seguidos!",
+
+
+    "Random package!\nLOGIN FOR 2 DAYS IN A ROW to get : 50%s package and 100,000 hc package.": "Pacote aleatório!\nENTRE POR 2 DIAS SEGUIDOS para receber : 50%s pacote e um pacote de 100,000 hc.",
+
+
+    "2 Random packages!\nLOGIN TOMORROW to get : 50%s package and 100,000 hc package.": "2 pacotes aleatórios!\nENTRE AMANHÃ para receber : um pacote de 50%s e um pacote de 100,000 hc.",
+
+
+    "You got 50%s package and 200,000 hc package! for logging 25 days in a row!": "Você recebeu um pacote de 50 %s e um pacote de 200,000 hc por entrar por 25 dias seguidos!",
+    "Please use less numbers in your name!": "Por favor utilize menos números no teu nome!",
+
+
+    "4 random packages\nLOGIN TOMORROW to get : %s reward.": "4 pacotes aleatórios\nENTRE AMANHÃ para obter : %s recompensa.",
+
+
+    "Already processed ONCOLLECT for this gateway": "ONCOLLECT já processado para este gateway",
+    "Collected %dHC\n": "%dHC coletados\n",
+    "Collected %dHC. Max:%dHC": "%dHC coletados. Máx:%dHC",
+
+
+    "No gateway containing this file": "Nenhum gateway contém este arquivo.",
+
+
+    "Worm collected %dHC": "Worm coletou %dHC",
+
+
+    "\n\nIPs have been removed from your bounce-list and IP history. Please try connecting again.": "\n\nIPs foram removidos da sua bounce-list e do seu histórico de IPs.\nPor favor tente se conectar outra vez.",
+
+
+    "%s Purchased!\nCheck your Desktop/apps or Desktop/purchases or /etc/bin for purchased tools/apps!": "%s Comprado!\nVerifique seu Desktop/apps, Desktop/purchases ou /etc/bin para ferramentas/apps compradas!",
+
+
+    "%s is already being upgraded!": "%s Já está sendo melhorado!",
+
+
+    "%s is blacklisted!": "%s está na lista negra!",
+
+
+    "A connection has been detected!": "Uma conexão foi detectada!",
+
+
+    "A.I Failed! Invalid password!": "A.I falhou! Senha inválida!",
+
+
+    "A.I couldn't sniff target network!": "A.I não pôde farejar a rede alvo!",
+
+
+    "A.I didn't find anything! Upgrade your A.I": "A.I não encontrou nada! Melhora a sua A.I",
+
+
+    "A.I was in cooldown!\nA.I next available after: %s": "A.I está em cooldown!\nA.I estará pronta depois de: %s",
+
+
+    "Access alert": "Alerta de acesso",
+
+
+    "Administrator is client for %s  [%s] datacenter\nA.I Tip: Hack the datacenter to get the Administrators IP address": 
+"Administrador é cliente do datacenter da %s [%s]\nDica A.I: Invada à base de dados para obter o endereço IP do Administrador",
+
+
+    "Already collected reputation for hacking this gateway!\n\n": "Você já ganhou reputação por hackear este gateway!\n\n",
+
+
+    "App expired or code outdated! or cleaned by anti-virus!": "Aplicativo expirado, excluído pelo antivírus ou o código está desatualizado!",
+
+
+    "Available Commands: ": "Comandos disponíveis:",
+
+
+    "Can collect in about%s ": "Poderá coletar em %s ",
+
+
+    "Can not upgrade": "Não é possível melhorar",
+
+
+    "Can't collect!\nMiner is incompatable! \n\n(Can't collect hackers less than 25% of your reputation!)\n": "Não há como coletar!\nO miner é incompatível!\n\n(Não é possível coletar hackers com menos de 25% da tua reputação!)\n",
+
+
+    "Can't delete protected file!": "Não é possível apagar, arquivo protegido!",
+
+
+    "Can't take mission": "Não é possível pegar está missão",
+
+
+    "Can't upload to this gateway!": "Não é possível fazer upload para este gateway!",
+
+
+    "Can't use NAS/Public servers as bounce nodes!": "Não é possível usar NAS/Servidores públicos como bounce.",
+
+
+    "Can't use this tool now!\n\n ": "Não é possível usar esta ferramenta agora!\n\n ",
+
+
+    "Check your missions!": "Verifique as suas missões!",
+
+
+    "Checking stock ...": "Verificando estoque ...",
+
+
+    "Collected %d HackCoins\n": "%d HackCoins coletados\n",
+ 
+
+   "Connection Refused": "Conexão Recusada",
+ 
+
+   "Connection error": "Erro de Conexão",
+
+
+    "ERROR!\nCan't change IP because password cracker has been used recently!\nYou can change the IP only if you do not use the password cracker for %d days!\nTime left:%s": "ERRO!\nNão é possível mudar de IP porque o password cracker foi usado recentemente!\\nVocê pode alterar o IP somente se você não usar o password cracker por %d dias!\nTempo restante:%s",
+
+
+    "ERROR: You already have it! %s !": "ERRO: Você já tem isso! %s !",
+
+
+    "Email verified!": "Email verificado!",
+
+
+    "Executable code outdated! or cleaned by anti-virus!\n\nCorrupted file deleted!": "Código executável desatualizado! ou limpo pelo antivírus!\n\nArquivo corrompido apagado!",
+
+
+    "F.A.Q and Help topics": "F.A.Q e tópicos de ajuda",
+
+
+    "Failed creating connection tunnel!\n\n Too many IPs (Max: %d)!\nIncrease your RAM to add more!": "Falha ao criar túnel de conexão!\n\n MuitosIPs (Max:%d)!\nAumente o nível da RAM para adicionar mais!",
+
+
+    "Failed creating connection!\n\nThe follwoing IPs are offline or can't be used for tunneling!:\n": "Falha ao criar conexão!\n\nOs seguintes IPs estão offline ou não podem ser usados para tunneling!:\n",
+ 
+
+   "Failed to start mission.\nReason: Too many started missions.\nFinish the missions you started first (In Progress tab)!!!!": "Falha ao começar missão.\nRazão: Muitas missões ativas.\nComplete as missões ativas primeiro (aba Em Progresso)!!!!",
+
+
+    "Failed to transfer file!": "Falha ao transferir arquivo!",
+
+
+    "Failed to transfer file!!": "Falha ao transferir arquivo!!",
+ 
+
+   "Failed! Get the IP by destroying the guild and getting its customers list!": "Falhou! Obtenha o IP destruindo a guild e pegue a sua lista de clientes!",
+ 
+
+   "File delete error": "Erro ao apagar arquivo",
+
+
+    "File prepare error": "Erro ao preparar arquivo",
+
+
+    "File ready for transfer. Click the \"Upload\" button on the target directory to transfer file!": "Arquivo pronto para transferência. Clique no botão \\\"Upload\\\" no diretório alvo para transferir!",
+
+
+    "File transfer error": "Erro ao transferir arquivo",
+
+
+    "File transfered !": "Arquivo transferido !",
+ 
+
+   "Guild :$s [%s]": "Guild :$s [%s]",
+
+
+    "Hack more often to get : Packages, Apps, HC, %s, Instant Software Upgrades, Unique Hardware and more...": "Invada mais frequentemente para obter : Pacotes, Apps, HC, %s, Upgrades de software instantâneos, Hardware único e mais...",
+
+
+    "Incompatable Software": "Software incompatível",
+
+
+    "Miner tempreture: Cold \n": "Temperatura do Miner: Fria␣\n",
+
+
+    "Miner tempreture: High\nAbort.": "Temperatura do Miner: Alta\nAbortar.",
+ 
+
+   "Miner tempreture: Warm\n-> Cracking wallet... Cracked\nCollected extra %d HackCoins\n": "Temperatura do Miner: Morna\n-> Crackeando carteira... Crackeada\n%d HackCoins extra coletados\n",
+
+
+    "Miner tempreture: Warm \n": "Temperatura do Miner: Morna␣\n",
+
+
+    "Mining rig tempreture: High \n  (Collected recently)\nError: Can't collect coins.\n": "Temperatura do equipamento de mineração: Alta\n (Coletado recentemente)\nErro: Não é possível coletar moedas.\n",
+
+
+    "New mission available!": "Nova missão disponível!",
+
+
+    "No Reputation added! Hack people with at elast 75% of your reputation to get reputation!\n\n": "Nenhuma reputação adicionada! Invada pessoas com pelo menos 75% da sua reputação para obter reputação!\n\n",
+
+
+    "No file has been copied!\n click the 'Copy' icon the in a files detail page to transfer it here.": "Nenhum arquivo foi copiado!\n clique no ícone 'Copiar' na página de detalhes do ficheiro para o transferir.",
+ 
+
+   "No file set for transfer, Please select a file and upload again!": "Nenhum arquivo selecionado para transferência, Por favor selecione um arquivo e faça upload outra vez!",
+
+
+    "No file to transfer!": "Nenhum arquivo para transferir!",
+ 
+
+    "Not enough RAM. Please upgrade your RAM or cancel other tasks.": "RAM insuficiente! Por favor melhore sua RAM ou cancele outras tarefas!",
+
+
+    "Not enough cash! \nNeeded %d HC more\n\n You can get more cash by:\n- Collecting HC from your Miner\n- Finishing missions\n- Hacking others": "Dinheiro insuficiente!\nÉ preciso mais %d HC\n\nVocê pode obter mais dinheiro ao:\n- Coletar HC do seu minerador\n- Completar missões\n- Hackear outras pessoas",
+
+
+    "Not enough cash! \nNeeded %d HC more\n\n You can get more cash by:\n- Collecting HackCoins from your Miner\n- Finishing missions\n- Hacking others": "HackCoins insuficiente!\nÉ preciso mais %d HC\n\nVocê pode obter mais dinheiro ao:\n- Coletar HackCoins do teu minerador\n- Completar missões\n- Hackear outras pessoas",
+
+
+    "Owner :%s": "Proprietário: %s",
+
+
+    "Packages saved in %s": "Pacote salvo em %s",
+
+
+    "Please finish the turorial first (3rd icon on the left)": "Por favor termine o tutorial primeiro (3º icone na esquerda)",
+
+
+    "Please verify your email address to chat.<br>Go to your Desktop/system/settings.app and click `verify email`": "Por favor, verifique o seu endereço de e-mail para poder usar o chat.<br>Vá para Desktop/system/settings.app e clique em 'verificar e-mail'",
+ 
+   "Private message in chat": "Mensagem privada no chat",
+ 
+    "Processing purchase ...": "Processando compra ...",
+
+
+    "Reputation +%d\n\n": "Reputação +%d\n\n",
+
+
+    "Reputation: %d": "Reputação: %d",
+
+
+    "Rescaning ...\n": "Reanalisando ...\n",
+ 
+
+   "Someone have stolen %d HC!": "Alguém roubou %d HC",
+  
+
+  "This file can't be copied!": "Este arquivo não pode ser copiado!",
+
+
+    "To reduce spammers and toxic behaviour. All users are required to have 350 reputation at least to chat. ***</i></font><br><br>please type /rules and read the rules carefully to prevent your account from being permanently blocked from chat in the future.<br><br>To reach the reputation as fast as possible. Check your missions (5th icon on left) tab and do the mission<Br>Make sure you read the mission carefully<br><br>For more info on how to play the game. check your Desktop (first icon on left) tutorials and help folders": "Para reduzir spammers e mau comportamento. Todos os utilizadores têm de ter no mínimo 350 reputação para usar o chat. ***</i></font><br><br>por favor digite /rules e leia as regras cuidadosamente para prevenir que a sua conta seja permanentemente bloqueada do chat no futuro.<br><br> Para chegar a essa reputação o mais rápido possível. Verifique a sua aba de missões (5º ícone à esquerda) e faça a missão<Br>Certifique-se de que leu a missão cuidadosamente<br><br>Para mais informação de como jogar o jogo. verifique as pastas tutorial e help no Desktop (1º icone à esquerda)",
+ 
+
+    "Trying to get more info about staff...": "Tentando obter mais informação sobre a staff...",
+
+
+    "Unable to load app! app either corrupted or does not belong to you!": "Não foi possível carregar o app! aplicação está corrompida ou não te pertence!",
+
+
+    "Wrong password!": "Senha errada!",
+
+
+    "You are requesting too fast. Enter the following code to verify you are a human!: %s\nFailing to enter the code multiple times will result in deleting your account.": "Você está solicitando muito rápido. Digite o seguinte código para verificar se é um ser humano !: %s\nIntroduzir o código incorreto várias vezes resultará na exclusão da tua conta.",
+
+
+    "You have been hacked!": "Você foi hackeado!",
+
+
+    "You have connected directly through this gateway. thus your IP is saved in the logs. To avoid being targeted and hacked, it is better to delete the log entries that contain your IP address!\n\n Remember to build a long bounce list before attacking someone to make it harder for them to trace you and find your IP!": "Você se conectou diretamente através deste gateway. assim o teu IP é guardado nos registos. Para evitar ser um alvo e hackeado, é melhor excluir as entradas no registo que contêm o seu endereço de IP!\n\n Lembre-se de construir uma bounce-list longa antes de atacar alguém para tornar mais difícil para eles para segui-lo e encontrar o seu IP!",
+
+
+    "Your IP address has been blacklisted by the gateway for %s": "O seu endereço de IP foi colocado na lista negra pelo gateway por %s",
+
+
+    "Your email has been verified!": "Seu e-mail foi verificado!",
+
+
+    "%d Random packages have been found!": "%d pacotes aleatórios foram encontrados!",
+
+
+    "%s already maxed out!": "%s já está no máximo!",
+    "- Seriously ? -": "- Ah sério? -",
+ 
+
+    "<br><br><font color='red'><i><b>*** WARNING %s ***</i></font><br><font color='yellow'>Please read the rules (type /rules). Breaking the rules will get you a temporary block<br>Constant rule breaking and/or specific topics will get you a PERMANENT ban from the chat.<br><br> type /rules to see the rules.</font><br>": "<br><br><font color='red'><i><b>*** ATENÇÃO %s ***</i></font><br><font color='yellow'>Por favor, leia as regras (digite /rules). Ao quebrar as regras você irá ser bloqueado temporariamente<br>Quebrar as regras e/ou tópicos específicos constantemente levará à um banimento PERMANENTE do chat.<br><br>digite /rules para ver as regras.</font><br >",
+ 
+
+    "Can't start a mission you already started less than 24 hours ago!\n\n You can take a mission again only after 24 hours passed from the first time!": "Não é possível começar uma missão que você fez há menos de 24 horas!\n\n Você pode começar a missão outra vez apenas depois de passar 24 horas da primeira vez.",
+
+
+    "ERROR: Not enough %s!": "ERRO: %s insuficiente!",
+
+
+    "File save error": "Erro ao salvar arquivo",
+
+
+    "Invalid decrpytion key!": "Chave de descriptografia inválida!",
+
+
+    "Mission already taken!": "Missão já iniciada!",
+ 
+
+   "No write permissions on this file!": "Sem permissão de escrita neste arquivo!",
+
+
+    "Payment success!\nAdded %d%s .\nYou now have %d%s ": "Pagamento completo!\nAdicionado %d%s .\nAgora você tem %d%s",
+
+
+    "Please try again later!": "Por favor, tente novamente mais tarde!",
+
+
+    "Random packages might have HC and BB Jackpots!!!": "Pacotes aleatórios podem ter Jackpots de HC e BB!!!",
+ 
+
+   "Slots left on gateway:%d": "Slots restantes no gateway:%d",
+
+
+    "System has blocked file uploads!": "O sistema bloqueou o upload de arquivos!",
+
+
+    "This gateway is too weak for you!\n Only weak hackers with reputation less than %s can access it!": "Este gateway é muito fraco para você!\n Apenas hackers fracos com reputação menor que %s podem acessá-lo!",
+ 
+
+   "You can't connect to your self!": "Você não pode conectar a si mesmo!",
+
+
+    "A Critical error happened!\n\nNo connection available.": "Um erro crítico aconteceu!\n\nNenhuma conexão disponível.",
+
+
+    "Can't cancel mission": "Não é possível cancelar esta missão",
+
+
+    "Conneciton error": "Erro de conexão",
+
+
+    "You are sending too fast!": "Você está enviando muito rápido!",
+
+
+    "You can't cancel or fail this mission!": "Não é possível cancelar ou deixar esta missão!",
+
+
+    "You have been banned from chat in public. take a rest and read the rules (type /rules)": "Você foi banido do chat em público, descanse e leia as regras (digite /rules)",
+ 
+
+    "Can't execute on remote host!": "Não é possível executar no host remoto!",
+
+
+    "Congratulations! You are now a V.I.P\nV.I.P Active till %s": "Parabéns! Você agora é um Hacker V.I.P\nV.I.P ativo até %s",
+ 
+
+   "Failed! A.I too weak. Try again after an hour!!": "Falhou! 
+A.I muito fraca! Tenta novamente daqui a uma hora!!",
+
+
+    "File corrupted!": "Arquivo corrompido!",
+ 
+
+   "File open error": "Erro ao abrir arquivo",
+ 
+
+   "Gateway has no empty slots! %d ": "O gateway não tem espaços vazios! %d",
+ 
+
+   "No connection to target!": "Sem conexão ao alvo!",
+
+
+    "Not enough Reputation!\nYou must have at least %d reputation to create a guild!": "Reputação insuficiente!\nVocê deve ter pelo menos %d de reputação para criar uma guild!",
+
+
+    "Please check your email for password reset instructions!": 
+"Por favor, verifica o teu e-mail para obter instruções de redefinição de senha.",
+ 
+
+   "Hello <b>%s</b><Br>You have requested a new password,This is your new password<br><br><b>%s</b><br><br>Please copy it and paste it in the login screen.<br>Thank you!": "Olá <b>%s</b><Br>Você pediu uma nova senha, esta é a sua nova senha<br><br><b>%s</b><br><br>Por favor copie e cole na página de login.<br>Obrigado!",
+
+
+    "New Password": "Nova senha",
+
+
+    "New password has been sent to your email": "A nova senha foi enviada para seu email",
+
+
+    "Can't cancel missions that do not belong to you!": "Não pode cancelar missões que não pertencem a você!",
+ 
+
+   "!!! Last warning !!!": "!!! Último aviso !!!",
+
+
+    "%s Has Joined": "%s se juntou",
+ 
+
+   "%s Has Joined using your link!": "%s se juntou usando seu link!",
+
+
+    "Automation is forbidden": "A automação é proibida",
+
+
+    "Can't chat while server is restarting . Restarting server is required to apply bugfixes and make the game better": "Não é possível conversar enquanto o servidor está sendo reiniciado, o reinício é necessário para aplicar correções de erros e tornar o jogo melhor",
+
+
+    "Failed to start mission.\nReason: You do not have enough cash to deposit for penalty on failing the mission!": "Falha ao iniciar a missão.\nMotivo: Você não tem dinheiro suficiente para a penalidade caso falhe a missão!",
+
+
+    "Failed to start mission.\nReason: You must have reputation between %d and %d": "Falha ao iniciar a missão.\nMotivo: Você deve ter reputação entre %d e %d",
+
+
+    "Failed updating password. Please contact us via the forum <a href=\"http://forum.hackers.online\"> here </a> dont forget to mention your username!": "Falha ao atualizar a senha. Contacte-nos através do fórum <a href=\"http://forum.hackers.online\"> aqui </a> não se esqueça de mencionar o seu nome de usuário!",
+
+
+    "Invalid command!": "Comando inválido!",
+
+
+    "Invalid user!": "Usuário inválido!",
+
+
+    "Not enough %s": "%s insuficiente",
+
+
+    "Not passing the bot check will result in your account blocked!": "Não passar na verificação do bot resultará no bloqueio de sua conta!",
+
+
+    "Usernames that does not match our rules are permanantely banned!": "Nomes de usuário que não correspondem às nossas regras são permanentemente banidos!",
+
+
+    "Using automation will result in deleting your account.": "O uso de automação resultará na exclusão de sua conta.",
+
+
+    "Writing improper words (in any language) will get your account deleted.": "Se escrever palavras impróprias (em qualquer idioma) terá sua conta excluída.",
+
+
+    "You already own a guild, or part of a guild!": "Você já é dono de uma guild, ou é parte de uma!",
+
+
+    "File does not exist!": "O arquivo não existe!",
+
+
+    "File not found!": "Arquivo não encontrado!",
+
+
+    "Invalid Gateway! ": "Gateway inválido!␣",
+ 
+
+
+   "Not connected to target!": "Não conectado ao alvo!",
+
+
+    "Server is restarting. Please try again after the restart.": "O servidor está reiniciando. Por favor, tente novamente após o reinício.",
+
+
+    "Not allowed to PM developer": "Não é permitido mandar PM ao desenvolvedor",
+
+
+    "TOR and/or VPN users are not allowed to chat": "Utilizadores de TOR e/ou VPN não têm permissão para falar no chat",
+
+
+    "You can't use non-hackers as bounce node!": "Você não pode usar não-hackers como bounce!",
+
+
+    "Not allowed to email the developer. Use the forums http://forum.hackerz.online for questions and issues!": "Não é permitido enviar e-mail ao desenvolvedor. Use o fórum http://forum.hackerz.online para dúvidas e problemas!",
+
+
+    "%s is not being upgraded!": "%s não está sendo atualizado!",
+
+
+    "Can not cancel upgrade": "Não é possível cancelar a atualização"
+}
